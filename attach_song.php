@@ -11,7 +11,7 @@
     else{
       // break;
     }
-
+        // I am not seeing any problems regarding to how  we are finishing up this iteration.  After careful look and some considerations, I believe this should work.  
     }
      header("location:add_song.php?movie_id=$movie_id");
 
